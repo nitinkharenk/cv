@@ -22,8 +22,8 @@ body, button, input {
 
 .pic { 
   position: relative;
-  width: 200px;
-  height: 200px;
+  width: 20px;
+  height: 20px;
   overflow: hidden;
   border-radius: 50%;
 } 
