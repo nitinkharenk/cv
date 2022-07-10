@@ -20,6 +20,18 @@ body, button, input {
   min-height: 100vh;
 }
 
+.pic { 
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+} 
+.pic img { 
+  width: 100%;
+  height: auto;
+}
+
 .container {
   flex: 0 1 700px;
   margin: auto;
