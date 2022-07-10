@@ -28,8 +28,13 @@ body, button, input {
   border-radius: 50%;
 } 
 .pic img { 
-  width: 100%;
+  width: 20px;
   height: auto;
+   background-size: cover;
+ display: block;
+ border-radius: 100px;
+ -webkit-border-radius: 100px;
+ -moz-border-radius: 100px;
 }
 
 .container {
